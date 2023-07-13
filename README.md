@@ -7,16 +7,16 @@
 [![Build and Test](https://github.com/B612-Asteroid-Institute/naif_eop_historical/actions/workflows/build_test.yml/badge.svg)](https://github.com/B612-Asteroid-Institute/naif_eop_historical/actions/workflows/build_test.yml)
 [![Build, Test, & Publish](https://github.com/B612-Asteroid-Institute/naif_eop_historical/actions/workflows/build_test_publish.yml/badge.svg)](https://github.com/B612-Asteroid-Institute/naif_eop_historical/actions/workflows/build_test_publish.yml)  
 
-This package ships the Navigation and Ancillary Information Facility's high accuracy, historical Earth orientation parameters (EOP) [kernel](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/earth_720101_070426_historical.bpc).
+This package ships the Navigation and Ancillary Information Facility's high accuracy, historical Earth orientation parameters (EOP) [kernel](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/earth_720101_230601.bpc).
 
 **This is not an official NAIF package**. It is an automatically generated mirror of the file so that it is
 installable via `pip`. 
 
-The current version of the file released on 2007 APR 27 spans the following times: 1972 JAN 01 00:00:42.183 - 2007 APR 26 00:01:05.185
+The current version of the file released on 2007 APR 27 spans the following times: 1972 JAN 01 00:00:42.183 - 2023 JUN 01 00:01:09.184
 
 ## Installation
 
-The latest version of the file can be install via pip:  
+The latest version of the file can be installed via pip:  
 `pip install naif-eop-historical`
 
 ## Usage
