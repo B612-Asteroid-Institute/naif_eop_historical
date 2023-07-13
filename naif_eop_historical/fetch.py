@@ -4,9 +4,9 @@ import os
 
 import requests
 
-URL = "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/earth_720101_070426.bpc"
-FILE = os.path.join(os.path.dirname(__file__), "earth_720101_070426.bpc")
-MD5_FILE = os.path.join(os.path.dirname(__file__), "earth_720101_070426.md5")
+URL = "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/earth_720101_230601.bpc"
+FILE = os.path.join(os.path.dirname(__file__), "earth_720101_230601.bpc")
+MD5_FILE = os.path.join(os.path.dirname(__file__), "earth_720101_230601.md5")
 
 
 def fetch_file(url: str, output_file: str):
